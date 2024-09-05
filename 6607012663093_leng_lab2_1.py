@@ -1,0 +1,14 @@
+a = "Thailand"
+print ("country = "+a)
+b = "Thanakorn Hantawornchaikit"
+print ("_name = "+b)
+c = "16/02/2005"
+print ("birth_day ="+c)
+d = str(18)
+print ("_age ="+d)
+e = "luang0234567@gmail.com"
+print ("_email ="+e)
+f = str(183)
+print ("_high ="+f)
+g = str(80)
+print ("_weight ="+g)
